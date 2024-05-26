@@ -1,6 +1,13 @@
 .DS_Store
+<<<<<<< HEAD
 /.venv
 *.sqlite3
 __pycache__
 django.log
 /logs
+=======
+/venv
+db.sqlite3
+__pycache__
+django.log
+>>>>>>> 960a6f885882fd9911b2840a733e4027304dd2b0
